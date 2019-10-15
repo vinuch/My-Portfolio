@@ -8,7 +8,7 @@ $backgroung-opacity: 0.6;
 
 
 @mixin easeOut {
-    transition: color .5s ease-out;
+    transition: all .5s ease-out;
 }
 
 @mixin backgrouund {
