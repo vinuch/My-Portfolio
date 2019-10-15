@@ -64,7 +64,7 @@
     &-nav {
         margin: 0;
         padding: 0;
-        background: darken($primary-color, 8);
+        background: darken($primary-color, 3);
         list-style: none;
         transform: translate3d(0, -100%, 0);
         @include easeOut;
