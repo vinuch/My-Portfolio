@@ -26,6 +26,7 @@ h3 {
 
     &.lg-heading {
         font-size: 5rem;
+        letter-spacing: .2rem;
     }
 
     &.sm-heading {
@@ -33,6 +34,7 @@ h3 {
         margin-bottom: 2rem;
         padding: 0.2rem 1rem;
         background: rgba(lighten($primary-color, 2), 0.5);
+
     }
 }
 
@@ -50,6 +52,10 @@ header {
 .text-secondary {
     color: $secondary-color;
 }
+
+
+
+
 
 main {
     padding: 4rem;
